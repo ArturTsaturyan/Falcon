@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "active": false,
+      "name": "Frequency",
+      "innerList": [
+        { "id": 0, "completed": false, "title": "50", "titleText": "(153)" },
+        { "id": 1, "completed": false, "title": "60", "titleText": "(151)" }
+      ]
+    },
+    {
+      "id": 1,
+      "active": false,
+      "name": "Phase",
+      "innerList": [
+        { "id": 0, "completed": false, "title": "1", "titleText": "(17)" },
+        { "id": 1, "completed": false, "title": "3", "titleText": "(287)" }
+      ]
+    },
+    {
+      "id": 2,
+      "active": false,
+      "name": "kVA",
+      "innerList": [
+        { "id": 0, "completed": false, "title": "1 - 75", "titleText": "(30)" },
+        { "id": 1, "completed": false, "title": "76 - 375", "titleText": "(25)" },
+        { "id": 2, "completed": false, "title": "376 - 750", "titleText": "(30)" },
+        { "id": 3, "completed": false, "title": "751 - 1000", "titleText": "(25)" },
+        { "id": 4, "completed": false, "title": "1001 - 1500", "titleText": "(30)" },
+        { "id": 5, "completed": false, "title": "> 1500", "titleText": "(25)" }
+      ]
+    }
+  ]
+  
